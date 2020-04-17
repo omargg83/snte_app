@@ -1,1 +1,0 @@
-C:\desarrollos\Desarrollos\SNTE\snte_app\snte_app.UWP\snte_app.UWP.csproj;x86
