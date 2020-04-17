@@ -1,0 +1,17 @@
+D:\Desarrollos\SNTE\snte_app\snte_app\bin\Release\netstandard2.0\snte_app.deps.json
+D:\Desarrollos\SNTE\snte_app\snte_app\bin\Release\netstandard2.0\snte_app.dll
+D:\Desarrollos\SNTE\snte_app\snte_app\bin\Release\netstandard2.0\ref\snte_app.dll
+D:\Desarrollos\SNTE\snte_app\snte_app\bin\Release\netstandard2.0\snte_app.pdb
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Release\netstandard2.0\Ahorro.xaml.g.cs
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Release\netstandard2.0\Menu.xaml.g.cs
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Release\netstandard2.0\snte_app.AssemblyInfoInputs.cache
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Release\netstandard2.0\snte_app.AssemblyInfo.cs
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Release\netstandard2.0\XamlC.stamp
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Release\netstandard2.0\snte_app.dll
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Release\netstandard2.0\ref\snte_app.dll
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Release\netstandard2.0\snte_app.pdb
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Release\netstandard2.0\snte_app.csprojAssemblyReference.cache
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Release\netstandard2.0\credito.xaml.g.cs
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Release\netstandard2.0\credito_ver.xaml.g.cs

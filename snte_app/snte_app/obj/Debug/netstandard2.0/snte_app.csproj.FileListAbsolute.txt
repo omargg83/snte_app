@@ -1,0 +1,34 @@
+D:\Desarrollos\SNTE\snte_app\snte_app\bin\Debug\netstandard2.0\snte_app.deps.json
+D:\Desarrollos\SNTE\snte_app\snte_app\bin\Debug\netstandard2.0\snte_app.dll
+D:\Desarrollos\SNTE\snte_app\snte_app\bin\Debug\netstandard2.0\ref\snte_app.dll
+D:\Desarrollos\SNTE\snte_app\snte_app\bin\Debug\netstandard2.0\snte_app.pdb
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Debug\netstandard2.0\snte_app.AssemblyInfoInputs.cache
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Debug\netstandard2.0\snte_app.AssemblyInfo.cs
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Debug\netstandard2.0\snte_app.dll
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Debug\netstandard2.0\ref\snte_app.dll
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Debug\netstandard2.0\snte_app.pdb
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Debug\netstandard2.0\snte_app.csprojAssemblyReference.cache
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Debug\netstandard2.0\Menu.xaml.g.cs
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Debug\netstandard2.0\Ahorro.xaml.g.cs
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Debug\netstandard2.0\credito.xaml.g.cs
+D:\Desarrollos\SNTE\snte_app\snte_app\obj\Debug\netstandard2.0\credito_ver.xaml.g.cs
+C:\desarrollos\Desarrollos\SNTE - copia - copia\snte_app\snte_app\bin\Debug\netstandard2.0\CAJA DE AHORRO SNTE 15.deps.json
+C:\desarrollos\Desarrollos\SNTE - copia - copia\snte_app\snte_app\bin\Debug\netstandard2.0\CAJA DE AHORRO SNTE 15.dll
+C:\desarrollos\Desarrollos\SNTE - copia - copia\snte_app\snte_app\bin\Debug\netstandard2.0\ref\CAJA DE AHORRO SNTE 15.dll
+C:\desarrollos\Desarrollos\SNTE - copia - copia\snte_app\snte_app\bin\Debug\netstandard2.0\CAJA DE AHORRO SNTE 15.pdb
+C:\desarrollos\Desarrollos\SNTE - copia - copia\snte_app\snte_app\obj\Debug\netstandard2.0\snte_app.csprojAssemblyReference.cache
+C:\desarrollos\Desarrollos\SNTE - copia - copia\snte_app\snte_app\obj\Debug\netstandard2.0\Ahorro.xaml.g.cs
+C:\desarrollos\Desarrollos\SNTE - copia - copia\snte_app\snte_app\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\desarrollos\Desarrollos\SNTE - copia - copia\snte_app\snte_app\obj\Debug\netstandard2.0\credito.xaml.g.cs
+C:\desarrollos\Desarrollos\SNTE - copia - copia\snte_app\snte_app\obj\Debug\netstandard2.0\credito_ver.xaml.g.cs
+C:\desarrollos\Desarrollos\SNTE - copia - copia\snte_app\snte_app\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\desarrollos\Desarrollos\SNTE - copia - copia\snte_app\snte_app\obj\Debug\netstandard2.0\Menu.xaml.g.cs
+C:\desarrollos\Desarrollos\SNTE - copia - copia\snte_app\snte_app\obj\Debug\netstandard2.0\snte_app.AssemblyInfoInputs.cache
+C:\desarrollos\Desarrollos\SNTE - copia - copia\snte_app\snte_app\obj\Debug\netstandard2.0\snte_app.AssemblyInfo.cs
+C:\desarrollos\Desarrollos\SNTE - copia - copia\snte_app\snte_app\obj\Debug\netstandard2.0\XamlC.stamp
+C:\desarrollos\Desarrollos\SNTE - copia - copia\snte_app\snte_app\obj\Debug\netstandard2.0\CAJA DE AHORRO SNTE 15.dll
+C:\desarrollos\Desarrollos\SNTE - copia - copia\snte_app\snte_app\obj\Debug\netstandard2.0\ref\CAJA DE AHORRO SNTE 15.dll
+C:\desarrollos\Desarrollos\SNTE - copia - copia\snte_app\snte_app\obj\Debug\netstandard2.0\CAJA DE AHORRO SNTE 15.pdb
