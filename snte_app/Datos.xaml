@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="snte_app.Datos"
+             Title="Datos"
+             IconImageSource="datos.png"
+             >
+     
+    <NavigationPage.TitleView>
+        <StackLayout Orientation="Horizontal">
+            <Image Source="favicon.ico"
+                   VerticalOptions="CenterAndExpand"
+                   HorizontalOptions="Start" />
+            <Label Text="Caja de Ahorro y Crédito"
+                   HorizontalOptions="StartAndExpand"
+                   VerticalOptions="CenterAndExpand"
+                   FontAttributes="Bold"
+                   FontSize="20"
+                   TextColor="White"
+                   />
+        </StackLayout>
+    </NavigationPage.TitleView>
+
+
+    <RelativeLayout>
+        <Image Source="fondo5.jpg" Aspect="AspectFill" 
+				   RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent,Property=Width}"
+				   RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent,Property=Height}"
+                   />
+        <Grid Padding="5" RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent,Property=Width}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Label Text="Datos" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="8" FontSize="30" TextColor="Black"/>
+            
+            <Label Text="Socio:" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" VerticalOptions="Center" FontSize="Medium"/>
+            <Label x:Name="socio" Text="{Binding Socio}" Grid.Row="1" Grid.Column="3" Grid.ColumnSpan="5" VerticalOptions="Center" FontSize="Medium"/>
+
+            <Label Text="Filiación:" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" VerticalOptions="Center" FontSize="Medium"/>
+            <Label x:Name="filiacion" Text="{Binding filiacion}" Grid.Row="2" Grid.Column="3" Grid.ColumnSpan="5" VerticalOptions="Center" FontSize="Medium" TextColor="Black"/>
+
+            <Label Text="Nombre:" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="3" VerticalOptions="Center" FontSize="Medium"/>
+            <Label x:Name="nombre" Text="{Binding nombre}" Grid.Row="3" Grid.Column="3" Grid.ColumnSpan="5" VerticalOptions="Center" FontSize="Medium"/>
+
+            <Label Text="Paterno:" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="3" VerticalOptions="Center" FontSize="Medium"/>
+            <Label x:Name="ape_pat" Text="{Binding ape_pat}" Grid.Row="4" Grid.Column="3" Grid.ColumnSpan="5" VerticalOptions="Center" FontSize="Medium"/>
+
+            <Label Text="Materno:" Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="3" VerticalOptions="Center" FontSize="Medium"/>
+            <Label x:Name="ape_mat" Text="{Binding ape_mat}" Grid.Row="5" Grid.Column="3" Grid.ColumnSpan="5" VerticalOptions="Center" FontSize="Medium"/>
+
+            <Label Text="Domicilio:" Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="3" VerticalOptions="Center" FontSize="Medium"/>
+            <Label x:Name="d_dom" Text="{Binding d_dom}" Grid.Row="6" Grid.Column="3" Grid.ColumnSpan="5" VerticalOptions="Center" FontSize="Medium"/>
+
+            <Button Text="Salir" Clicked="Btn_salir" Grid.Row="7" Grid.Column="2"  Grid.ColumnSpan="4" VerticalOptions="CenterAndExpand" FontSize="Small" BackgroundColor="#f58634" CornerRadius="20"/>
+        </Grid>
+       
+    </RelativeLayout>
+</ContentPage>
