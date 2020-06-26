@@ -8682,18 +8682,18 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\omarg\\.nuget\\packages\\": {},
+    "C:\\Users\\Informatica\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\desarollo\\GIT\\snte_app\\snte_app\\snte_app.UWP\\snte_app.UWP.csproj",
+      "projectUniqueName": "C:\\desarrollos\\git\\snte_app\\snte_app\\snte_app.UWP\\snte_app.UWP.csproj",
       "projectName": "snte_app.UWP",
-      "projectPath": "C:\\desarollo\\GIT\\snte_app\\snte_app\\snte_app.UWP\\snte_app.UWP.csproj",
-      "packagesPath": "C:\\Users\\omarg\\.nuget\\packages\\",
-      "outputPath": "C:\\desarollo\\GIT\\snte_app\\snte_app\\snte_app.UWP\\obj\\",
+      "projectPath": "C:\\desarrollos\\git\\snte_app\\snte_app\\snte_app.UWP\\snte_app.UWP.csproj",
+      "packagesPath": "C:\\Users\\Informatica\\.nuget\\packages\\",
+      "outputPath": "C:\\desarrollos\\git\\snte_app\\snte_app\\snte_app.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -8701,7 +8701,7 @@
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\omarg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Informatica\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -8715,8 +8715,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\desarollo\\GIT\\snte_app\\snte_app\\snte_app\\snte_app.csproj": {
-              "projectPath": "C:\\desarollo\\GIT\\snte_app\\snte_app\\snte_app\\snte_app.csproj"
+            "C:\\desarrollos\\git\\snte_app\\snte_app\\snte_app\\snte_app.csproj": {
+              "projectPath": "C:\\desarrollos\\git\\snte_app\\snte_app\\snte_app\\snte_app.csproj"
             }
           }
         }

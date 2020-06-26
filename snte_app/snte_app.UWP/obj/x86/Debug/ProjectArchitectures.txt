@@ -1,1 +1,1 @@
-C:\desarollo\GIT\snte_app\snte_app\snte_app.UWP\snte_app.UWP.csproj;x86
+C:\desarrollos\git\snte_app\snte_app\snte_app.UWP\snte_app.UWP.csproj;x86

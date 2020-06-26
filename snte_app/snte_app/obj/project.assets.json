@@ -822,23 +822,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\omarg\\.nuget\\packages\\": {},
+    "C:\\Users\\Informatica\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\desarollo\\GIT\\snte_app\\snte_app\\snte_app\\snte_app.csproj",
+      "projectUniqueName": "C:\\desarrollos\\git\\snte_app\\snte_app\\snte_app\\snte_app.csproj",
       "projectName": "CAJA DE AHORRO SNTE 15",
-      "projectPath": "C:\\desarollo\\GIT\\snte_app\\snte_app\\snte_app\\snte_app.csproj",
-      "packagesPath": "C:\\Users\\omarg\\.nuget\\packages\\",
-      "outputPath": "C:\\desarollo\\GIT\\snte_app\\snte_app\\snte_app\\obj\\",
+      "projectPath": "C:\\desarrollos\\git\\snte_app\\snte_app\\snte_app\\snte_app.csproj",
+      "packagesPath": "C:\\Users\\Informatica\\.nuget\\packages\\",
+      "outputPath": "C:\\desarrollos\\git\\snte_app\\snte_app\\snte_app\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\omarg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Informatica\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

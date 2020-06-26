@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\desarollo\\GIT\\snte_app\\snte_app\\snte_app.Android\\snte_app.Android.csproj": {}
+    "C:\\desarrollos\\git\\snte_app\\snte_app\\snte_app.Android\\snte_app.Android.csproj": {}
   },
   "projects": {
-    "C:\\desarollo\\GIT\\snte_app\\snte_app\\snte_app.Android\\snte_app.Android.csproj": {
+    "C:\\desarrollos\\git\\snte_app\\snte_app\\snte_app.Android\\snte_app.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\desarollo\\GIT\\snte_app\\snte_app\\snte_app.Android\\snte_app.Android.csproj",
+        "projectUniqueName": "C:\\desarrollos\\git\\snte_app\\snte_app\\snte_app.Android\\snte_app.Android.csproj",
         "projectName": "snte_app.Android",
-        "projectPath": "C:\\desarollo\\GIT\\snte_app\\snte_app\\snte_app.Android\\snte_app.Android.csproj",
-        "packagesPath": "C:\\Users\\omarg\\.nuget\\packages\\",
-        "outputPath": "C:\\desarollo\\GIT\\snte_app\\snte_app\\snte_app.Android\\obj\\",
+        "projectPath": "C:\\desarrollos\\git\\snte_app\\snte_app\\snte_app.Android\\snte_app.Android.csproj",
+        "packagesPath": "C:\\Users\\Informatica\\.nuget\\packages\\",
+        "outputPath": "C:\\desarrollos\\git\\snte_app\\snte_app\\snte_app.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\omarg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Informatica\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\desarollo\\GIT\\snte_app\\snte_app\\snte_app\\snte_app.csproj": {
-                "projectPath": "C:\\desarollo\\GIT\\snte_app\\snte_app\\snte_app\\snte_app.csproj"
+              "C:\\desarrollos\\git\\snte_app\\snte_app\\snte_app\\snte_app.csproj": {
+                "projectPath": "C:\\desarrollos\\git\\snte_app\\snte_app\\snte_app\\snte_app.csproj"
               }
             }
           }
@@ -54,20 +54,20 @@
         }
       }
     },
-    "C:\\desarollo\\GIT\\snte_app\\snte_app\\snte_app\\snte_app.csproj": {
+    "C:\\desarrollos\\git\\snte_app\\snte_app\\snte_app\\snte_app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\desarollo\\GIT\\snte_app\\snte_app\\snte_app\\snte_app.csproj",
+        "projectUniqueName": "C:\\desarrollos\\git\\snte_app\\snte_app\\snte_app\\snte_app.csproj",
         "projectName": "CAJA DE AHORRO SNTE 15",
-        "projectPath": "C:\\desarollo\\GIT\\snte_app\\snte_app\\snte_app\\snte_app.csproj",
-        "packagesPath": "C:\\Users\\omarg\\.nuget\\packages\\",
-        "outputPath": "C:\\desarollo\\GIT\\snte_app\\snte_app\\snte_app\\obj\\",
+        "projectPath": "C:\\desarrollos\\git\\snte_app\\snte_app\\snte_app\\snte_app.csproj",
+        "packagesPath": "C:\\Users\\Informatica\\.nuget\\packages\\",
+        "outputPath": "C:\\desarrollos\\git\\snte_app\\snte_app\\snte_app\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\omarg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Informatica\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
